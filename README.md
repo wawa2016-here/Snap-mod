@@ -1,1 +1,1 @@
-this is a mod of snap
+this is a mod of snap!
