@@ -5067,7 +5067,7 @@ IDE_Morph.prototype.projectMenu = function () {
     if (!this.config.noProjectItems) {
         menu.addPair('New', 'createNewProject', '^N');
         menu.addPair('Open...', 'openProjectsBrowser', '^O');
-        menu.addPair('Save/Unavalible', "save/Unavalible", '^S');
+        menu.addPair('Save/Unavalible', "save/Unavalible", '^S/Unavalible');
         menu.addItem('Save As.../Unavalible', 'saveProjectsBrowser');
         if (backup) {
             menu.addItem(
