@@ -635,9 +635,9 @@ SyntaxElementMorph.prototype.labelParts = {
             pixelate: ['pixelate'],
             mosaic: ['mosaic'],
             negative : ['negative']
-            // duplicate: ['duplicate'],
-            // comic: ['comic'],
-            // confetti: ['confetti']
+             duplicate: ['duplicate'],
+             comic: ['comic'],
+             confetti: ['confetti']
         }
     },
     '%env': {
